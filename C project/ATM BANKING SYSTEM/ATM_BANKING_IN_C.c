@@ -72,10 +72,10 @@ void main(){
 
     case 'u':
         system("cls");
-        printf("\nAuthor: Muhammad Asif\n");
-        printf("Professional Front-End Engineer\n");
-        printf("alexasifhhossain@gmail.com\n");
-        printf("Dhaka, Bangladesh");
+        printf("\nAuthor: Sitamusahau Ruth\n");
+        printf("Professional Full Stack Developer\n");
+        printf("sitamusahauruth@gmail.com\n");
+        printf("Kigali, Rwanda");
         printf("\n\n\t\t------PRESS ANY KEY TO MAIN MENU-------");
         getch();
         
