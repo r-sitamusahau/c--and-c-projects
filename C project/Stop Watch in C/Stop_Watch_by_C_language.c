@@ -43,10 +43,10 @@ int main()
         }
 
     }
-    printf("\n\nMade By Muhammad asif (Web Developer)\n");
-    printf("Gmail: alexasifhhossain@gmail.com\n");
-    printf("linkedin: mohammadasif10\n");
-    printf("Institute of Science & Technology\n\n");
+    printf("\n\nMade By Sitamusahau Ruth (Web Developer)\n");
+    printf("Gmail: sitamusahauruth@gmail.com\n");
+    printf("linkedin: Ruth Sitamusahu\n");
+    printf("Rwanda Coding Academy\n\n");
 
     return 0;
 
